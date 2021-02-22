@@ -17,3 +17,4 @@ class ExampleUnitTest {
 }
 
 // ci_test1 run test cases in pipeline
+// bets practice for test cases
